@@ -1,16 +1,28 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**ashishra12/ashishra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Ashish Ranjan
 
-Here are some ideas to get you started:
+I’m a passionate MERN Stack Developer and DSA Enthusiast who loves building seamless web applications and solving challenging problems.
+I enjoy turning ideas into clean, functional, and scalable code while constantly learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Connect with Me
+
+🔗 LinkedIn
+ | 📸 Instagram
+ | 📧 Email Me
+
+🛠 Tech Stack
+
+💻 Languages: C, C++, JavaScript, TypeScript
+🎨 Frontend: React, Next.js, TailwindCSS, Bootstrap, Vite
+⚙️ Backend: Node.js, Express.js, Socket.io
+🗄 Database: MongoDB, MySQL, Firebase
+☁️ Deployment: Render, Netlify, Vercel
+🛠 Tools: Git, GitHub, Postman, JWT, Nodemon
+
+📈 My Journey
+
+🔹 Started with C & C++ to strengthen problem-solving and DSA fundamentals.
+🔹 Learned JavaScript and moved into React + Node.js to build full-stack apps.
+🔹 Currently working on projects, exploring system design concepts, and refining clean code practices.
+🎯 Goal: To grow as a versatile software engineer and build impactful products.
