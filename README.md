@@ -4,6 +4,7 @@
 
 I’m a passionate MERN Stack Developer and DSA Enthusiast who loves building seamless web applications and solving challenging problems.
 I enjoy turning ideas into clean, functional, and scalable code while constantly learning and exploring new technologies.
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/4c1dc808-35fa-403d-8e95-0fd971f00fab" />
 
 🌍 Connect with Me
 
