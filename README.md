@@ -10,7 +10,7 @@ I enjoy turning ideas into clean, functional, and scalable code while constantly
 
 🌍 Connect with Me
 
-🔗 LinkedIn
+🔗 LinkedIn(https://www.linkedin.com/in/ashish-ranjan-b1b9b82a2/)
  | 📸 Instagram
  | 📧 Email Me
 
